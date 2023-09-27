@@ -1,4 +1,10 @@
 # mingw-w64-logo
+
+
+**MOVED!** Hello, I am moving my repos to http://ratfactor.com/repos/
+and setting them to read-only ("archived") on GitHub. Thank you, _-Dave_
+
+
 Logo for the Mingw-w64 project.
 
 ![a grid of four alternating green and black diamonds](./mingw-w64.svg)
